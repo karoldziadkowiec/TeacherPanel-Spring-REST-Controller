@@ -1,4 +1,4 @@
-# TeacherPanel-Spring-REST-Controller
+# TeacherPanel-Spring-REST-Controller + Unit Tests
 
 The project is a REST Controller for effective management of teacher data along with the organization of groups and teacher activities. Performed also unit tests of each method.
 
